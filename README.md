@@ -1,4 +1,3 @@
 # Job Listings
 
-
-Hello World.
+This is a place to list jobs at job posting sites and at employer websites.
