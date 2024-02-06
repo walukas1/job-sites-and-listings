@@ -1,2 +1,2 @@
 Job listings:
-- https://dynamitejobs.com/company/meshcapade/remote-job/ml-ops-engineer-x-f-m
+- [ML Ops Engineer (x/f/m)](https://dynamitejobs.com/company/meshcapade/remote-job/ml-ops-engineer-x-f-m)
