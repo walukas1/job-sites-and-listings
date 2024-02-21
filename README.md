@@ -1,4 +1,3 @@
 # Job Listings
 
-
-Hello World.
+This is for listings of job posting sites.
