@@ -14,3 +14,7 @@ Employer Sites:
 - https://www.carbon-direct.com/careers
 - https://jobs.intel.com/en/search-jobs
 - https://careers.share.state.nm.us/
+- https://www.governmentjobs.com/careers/bernco?keywords=data&page=2
+- https://sandia.jobs/
+- https://www.spo.state.nm.us/work-for-new-mexico/
+- https://unm.csod.com/ux/ats/careersite/18/home?c=unm
