@@ -7,7 +7,12 @@ Posting Sites:
 - https://techjobsforgood.com/
 - https://abqlibrary.org/atozdatabases
 - https://dynamitejobs.com/
-
+- https://hitmarker.net/jobs
+- https://www.entertainmentcareers.net/psearch/?zoom_query=data
+- https://www.doorsopen.co/jobs/
+- https://weworkremotely.com/
+- https://www.jobs.state.nm.us/vosnet/jobbanks/joblist
+  
 Employer Sites:
 - https://www.governmentjobs.com/careers/cabq
 - https://chess.wd1.myworkdayjobs.com/CHESS
@@ -18,3 +23,4 @@ Employer Sites:
 - https://sandia.jobs/
 - https://www.spo.state.nm.us/work-for-new-mexico/
 - https://unm.csod.com/ux/ats/careersite/18/home?c=unm
+- https://livenation.wd1.myworkdayjobs.com/LNExternalSite
