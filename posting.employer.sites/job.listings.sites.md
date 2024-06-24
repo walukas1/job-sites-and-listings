@@ -14,3 +14,4 @@ Employer Sites:
 - https://www.carbon-direct.com/careers
 - https://jobs.intel.com/en/search-jobs
 - https://lanl.jobs/Search/JobDetails/data-scientist-and-aiops-developeradministrator-scientist-23/a2d5053e-0319-44e5-8187-554a6aeb84b8
+- https://www.lovelace.jobs/
