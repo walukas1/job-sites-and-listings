@@ -7,6 +7,7 @@ Posting Sites:
 - https://techjobsforgood.com/
 - https://abqlibrary.org/atozdatabases
 - https://dynamitejobs.com/
+- https://www.flexjobs.com/lp/remote-jobs1?utm_source=google&utm_medium=sem&utm_campaign=17280326137&utm_term=flexible%20jobs&network=g&device=c&adposition=&adgroupid=151956371204&placement=&adid=666368667078&gad_source=1&gclid=Cj0KCQjwsuSzBhCLARIsAIcdLm6Eps8C5WpdcGnmVPdfEfRyEyvFmZbMQc33zz7j9Qgnk4oV5UdQ7_8aAkN1EALw_wcB
 
 Employer Sites:
 - https://www.governmentjobs.com/careers/cabq
@@ -16,3 +17,4 @@ Employer Sites:
 - https://www.lovelace.jobs/
 - https://lanl.jobs/Search/JobDetails/data-scientist-and-aiops-developeradministrator-scientist-23/a2d5053e-0319-44e5-8187-554a6aeb84b8
 - https://unm.csod.com/ux/ats/careersite/18/home?c=unm
+- https://www.sandia.gov/careers/
