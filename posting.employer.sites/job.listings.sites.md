@@ -13,3 +13,4 @@ Employer Sites:
 - https://chess.wd1.myworkdayjobs.com/CHESS
 - https://www.carbon-direct.com/careers
 - https://jobs.intel.com/en/search-jobs
+- https://www.lovelace.jobs/
