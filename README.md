@@ -1,4 +1,2 @@
 # Job Listings
-
-
-Hello World.
+Learning about GitHub in class.
